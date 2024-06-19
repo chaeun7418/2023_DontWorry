@@ -1,3 +1,5 @@
+# 2023 Don't Worry
+2023-2 캡스톤 졸업 프로젝트
 # 돈워리(Be Happy) -backend <br><br>
 "일정 및 소비 데이터를 활용한 예산 사용량 예측 AI 기반 모바일 웹 서비스 "<br><br><br>
 
@@ -101,22 +103,3 @@ DontWorry
  * ```MoneyCollector```:목돈 모으기<br>
  * ```WithFriends```:사용량 공유<br>
  * ```Statistics```:통계<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
